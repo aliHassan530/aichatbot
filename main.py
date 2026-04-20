@@ -84,7 +84,7 @@ Register at: https://app.themetasum.com
 • Offline mode with auto sync  
 • Detailed reports & analytics
 
-Answer only based on the above information. Keep responses clear and professional.
+Answer only based on the above information. Keep responses clear and professional.done it 
 """
 
 # ================================================
