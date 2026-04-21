@@ -12,6 +12,9 @@ from pydantic import BaseModel
 from typing import List
 import logging
 import os
+from mangum import Mangum
+
+app = FastAPI()
 
 logger = logging.getLogger(__name__)
 
